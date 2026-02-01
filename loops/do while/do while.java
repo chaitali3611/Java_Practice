@@ -9,6 +9,5 @@ class While
             
             i++;
         }while(i<=4);
-        
     }
 }
